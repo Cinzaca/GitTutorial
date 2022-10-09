@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+Aici e ceva foarte smecher
+=======
+Am introdus ceva smecher in Index.txt
+Am o noua linie
+>>>>>>> 08f2ac5 (Update index.txt)
